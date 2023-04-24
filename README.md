@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Nishanteswar Singh
+Hi there 👋
+I'm Nishant.
 -    I'm a student at IIT ISM Dhanbad. Over the past 2 years, I have been mentoring JEE students and contributing to Quora. In my free time, I enjoy exploring new technologies and building projects that challenge me.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
